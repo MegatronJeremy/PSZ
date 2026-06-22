@@ -1,0 +1,8 @@
+@relation words-test
+
+@attribute text String
+@attribute class-att {C, J}
+
+@data
+"Chinese Chinese Chinese Tokyo Japan", C
+

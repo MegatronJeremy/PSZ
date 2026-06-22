@@ -1,0 +1,10 @@
+@relation words
+
+@attribute text String
+@attribute class-att {C, J}
+
+@data
+"Chinese Beijing Chinese", C
+"Chinese Chinese Shanghai", C
+"Beijing Macao", C
+"Tokyo Japan Chinese", J
