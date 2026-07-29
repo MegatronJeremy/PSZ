@@ -14,7 +14,7 @@ super-projekta [ETF-Master](https://github.com/MegatronJeremy/ETF-Master).
 | --- | --- |
 | [`PSZ_Projekat_2026.pdf`](PSZ_Projekat_2026.pdf) | Postavka aktuelnog projektnog zadatka (2025/2026) |
 | [`Sea-Of-Sorrow/`](Sea-Of-Sorrow) | Projekat — scraping, analiza, vizuelizacija i ML nad podacima o beloj tehnici (submodule) |
-| [`materijali/predavanja/`](materijali/predavanja) | Slajdovi sa predavanja (analiza podataka, nadgledano ML, probabilistički modeli, široki pojas, stabla odlučivanja, kNN, k-Means) |
+| [`materijali/predavanja/`](materijali/predavanja) | Slajdovi sa predavanja 01–08 (analiza podataka, nadgledano ML, probabilistički modeli, široki pojas, stabla odlučivanja, kNN, k-Means, sistemi za preporučivanje) |
 | [`materijali/literatura/`](materijali/literatura) | Dodatna literatura po temama (regresije, SVM, naivni Bajes, evaluacija modela, mašinsko učenje) |
 | [`materijali/vezbe/`](materijali/vezbe) | Kodovi sa vežbi (`psz_*.zip/7z`) + Weka podaci (`weka/*.arff`) |
 | [`materijali/raniji/`](materijali/raniji) | Postavka zadatka iz ranije godine (2024/2025) |
